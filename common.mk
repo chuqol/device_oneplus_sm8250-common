@@ -303,7 +303,6 @@ PRODUCT_PACKAGES += \
 
 # OPlusExtras
 PRODUCT_PACKAGES += \
-    OPlusExtras \
     tri-state-key-calibrate
 
 # Overlays
